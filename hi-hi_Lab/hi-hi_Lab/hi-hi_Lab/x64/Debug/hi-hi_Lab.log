@@ -1,0 +1,3 @@
+﻿  hi-hi_Lab.cpp
+C:\Users\nessa\OneDrive\Documents\GitHub\hi-hi-Vhuerta24\hi-hi_Lab\hi-hi_Lab\hi-hi_Lab.cpp(37,1): warning C4715: 'strcmp_case_insensitive': not all control paths return a value
+  hi-hi_Lab.vcxproj -> C:\Users\nessa\OneDrive\Documents\GitHub\hi-hi-Vhuerta24\hi-hi_Lab\hi-hi_Lab\x64\Debug\hi-hi_Lab.exe
